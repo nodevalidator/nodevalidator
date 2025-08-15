@@ -1,10 +1,10 @@
 Hi there 👋
-ABOUT NODEVALIDATOR.SITE
-NODEVALIDATOR.SITE stands as a reliable entity in providing Proof-of-Stake (PoS) validator and Tendermint chain services. Our dedication to the blockchain community is evident through our diverse offerings, including community management, moderation, and guiding users through the process of staking their cryptocurrencies for rewards. With a firm commitment to fostering the expansion of Web3 and the Proof-of-Stake ecosystem, we deliver a secure staking service devoid of custodial control.
+ABOUT VALIDATORSG.NET KNOWN AS NODEVALIDATOR.SITE BEFORE
+ VALIDATORSG.NET stands as a reliable entity in providing Proof-of-Stake (PoS) validator and Tendermint chain services. Our dedication to the blockchain community is evident through our diverse offerings, including community management, moderation, and guiding users through the process of staking their cryptocurrencies for rewards. With a firm commitment to fostering the expansion of Web3 and the Proof-of-Stake ecosystem, we deliver a secure staking service devoid of custodial control.
 💞️ We are excited to participate in testnet and airdrop programs to contribute to maintaining the stability of the blockchain network.
 💞️ We are looking forward to the opportunity to discuss further how I can contribute and collaborate in the future
 💞️ We are a small company but have full staff for front end back end, even hackers, we are looking for opportunities to cooperate in running nodes and receiving air drops. Trust us and you won't be disappointed
-EXPLORER: https://explorer.nodevalidator.site
+EXPLORER: https://explorer.validatorsg.net
 Our Cloud Provider: AWS, GCP, Hetzner, Contabo
 Our Dedicated Server:
 AMD EPYC™ 9454P (incl. Simultaneous Multithreading)
@@ -18,18 +18,19 @@ Available Locations : EU
 
 Telegram: https://t.me/seawolf2311
 
-Website: https://nodevalidator.site
+Website: https://validatorsg.net
 
-Email: admin@nodevalidator.site
+Email: validatorsg@gmail.com
 
 Discord: kiemtienao112021#9493
 Social Network
-X: https://twitter.com/langtuvalidator, https://twitter.com/nodedigital01
+X: https://twitter.com/langtuvalidator, https://twitter.com/validatorsg
 Mainnet Validator :
-Pactus mainnet
+Pactus mainnet, Kopi
 
 
 Testnet Project
+Airchains
 Galactica
 Warden protocol
 Celestia
