@@ -1,6 +1,6 @@
 Hi there 👋
-ABOUT VALIDATORSG.NET KNOWN AS NODEVALIDATOR.SITE BEFORE
- VALIDATORSG.NET stands as a reliable entity in providing Proof-of-Stake (PoS) validator and Tendermint chain services. Our dedication to the blockchain community is evident through our diverse offerings, including community management, moderation, and guiding users through the process of staking their cryptocurrencies for rewards. With a firm commitment to fostering the expansion of Web3 and the Proof-of-Stake ecosystem, we deliver a secure staking service devoid of custodial control.
+ABOUT VALIDATORSG.COM KNOWN AS NODEVALIDATOR.SITE BEFORE
+ VALIDATORSG.COM stands as a reliable entity in providing Proof-of-Stake (PoS) validator and Tendermint chain services. Our dedication to the blockchain community is evident through our diverse offerings, including community management, moderation, and guiding users through the process of staking their cryptocurrencies for rewards. With a firm commitment to fostering the expansion of Web3 and the Proof-of-Stake ecosystem, we deliver a secure staking service devoid of custodial control.
 💞️ We are excited to participate in testnet and airdrop programs to contribute to maintaining the stability of the blockchain network.
 💞️ We are looking forward to the opportunity to discuss further how I can contribute and collaborate in the future
 💞️ We are a small company but have full staff for front end back end, even hackers, we are looking for opportunities to cooperate in running nodes and receiving air drops. Trust us and you won't be disappointed
@@ -20,13 +20,13 @@ Telegram: https://t.me/seawolf2311
 
 Website: https://validatorsg.net
 
-Email: validatorsg@gmail.com
+Email: validatorsg@validatorsg.com validatorsg@gmail.com
 
 Discord: kiemtienao112021#9493
 Social Network
-X: https://twitter.com/langtuvalidator, https://twitter.com/validatorsg
+X: https://x.com/advalidator, https://x.com/validatorsg
 Mainnet Validator :
-Pactus mainnet, Kopi
+Pactus mainnet, Paxi,Canton, Tanssi...
 
 
 Testnet Project
@@ -42,7 +42,6 @@ Side protocol
 Hedge
 Aligned-Layer
 Cardchain
-Tanssi
 Tangle
 
 <!---
