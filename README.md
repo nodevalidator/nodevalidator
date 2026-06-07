@@ -4,7 +4,7 @@ ABOUT VALIDATORSG.COM KNOWN AS NODEVALIDATOR.SITE BEFORE
 💞️ We are excited to participate in testnet and airdrop programs to contribute to maintaining the stability of the blockchain network.
 💞️ We are looking forward to the opportunity to discuss further how I can contribute and collaborate in the future
 💞️ We are a small company but have full staff for front end back end, even hackers, we are looking for opportunities to cooperate in running nodes and receiving air drops. Trust us and you won't be disappointed
-EXPLORER: https://explorer.validatorsg.net
+EXPLORER for Comos chain: https://explorer.validatorsg.com
 Our Cloud Provider: AWS, GCP, Hetzner, Contabo
 Our Dedicated Server:
 AMD EPYC™ 9454P (incl. Simultaneous Multithreading)
@@ -18,7 +18,7 @@ Available Locations : EU
 
 Telegram: https://t.me/seawolf2311
 
-Website: https://validatorsg.net
+Website: https://validatorsg.com
 
 Email: validatorsg@validatorsg.com validatorsg@gmail.com
 
