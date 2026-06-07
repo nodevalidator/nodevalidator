@@ -18,7 +18,7 @@ Available Locations : EU
 
 Telegram: https://t.me/seawolf2311
 
-Website: https://validatorsg.com
+Website: https://www.validatorsg.com
 
 Email: validatorsg@validatorsg.com validatorsg@gmail.com
 
